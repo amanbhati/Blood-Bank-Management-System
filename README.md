@@ -1,5 +1,4 @@
 # Blood Bank Management System
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
 
 ## Overview
 The Blood Bank Management System is a platform that allows for the management of blood donations and requests. The system is designed to streamline blood donation processes, monitor the status of donations and requests, and facilitate communication between donors, patients, and admins. It provides an intuitive interface to track blood groups, donation histories, and approval/rejection statuses.
